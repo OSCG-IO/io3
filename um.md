@@ -1,5 +1,12 @@
+# `um` - NodeCtl Update Manager
 
-## `um` - Update Manager commands 
+
+## Synopsis
+```
+./nodectl um <command> [parameters] [options] 
+```
+
+# `um` - Update Manager commands 
 ```
 list               # Display available/installed components 
 update             # Retrieve new list of components & update nodectl
