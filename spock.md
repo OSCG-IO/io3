@@ -4,6 +4,7 @@
 ## Synopsis
 ```
 ./nodectl spock <command> [parameters] [options] 
+```
 
 ## `spock` - Logical and Multi-Active PostgreSQL node configuration
 ```
