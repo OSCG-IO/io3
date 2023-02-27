@@ -1,7 +1,8 @@
 # NODECTL
 NODECTL is the pgEdge Node Control Command Line Interface (CLI).  It is a 
 cross-platform tool to manage your PostgreSQL eco-system of components.
-The modules are `um`, `service`, `spock`, `kirk` & `info`
+
+The modules are `[um](um.md)`, `service`, [spock](spock.md), `kirk` & `info`
 
 ## Synopsisssss
 ```
