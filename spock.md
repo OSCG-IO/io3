@@ -1,3 +1,9 @@
+# `spock` - NodeCtl Logical & Multi-Active Node Configuration
+
+
+## Synopsis
+```
+./nodectl spock <command> [parameters] [options] 
 
 ## `spock` - Logical and Multi-Active PostgreSQL node configuration
 ```
